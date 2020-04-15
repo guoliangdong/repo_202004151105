@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    NSLog(@"test");
+    NSLog(@"test");// form test 2020-0415-1104
 }
 
 
